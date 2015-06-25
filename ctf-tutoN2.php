@@ -51,6 +51,7 @@
 						<option value ="bleu">bleu</option>
 						<option value ="rouge">rouge</option>
 						<option value ="vert">vert</option>
+						<option value ="blanc"></option>
 					<INPUT TYPE=SUBMIT VALUE="GO">
 					</form>
 					
